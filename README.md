@@ -1,2 +1,2 @@
-# Alexa-Skill-Development-With-Python-Language
-Develop alexa skills with python and flask-ask framework
+# Alexa-Python
+Python Files to be run from aws lambda to interact with Amazon Alexa :)
